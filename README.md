@@ -2,7 +2,6 @@
 
 A classic Pachinko-style marble game built with Python, featuring physics-based mechanics and an interactive UI. The objective is to launch marbles and have them land in winning slots to increase your score.
 
-![Gameplay Screenshot](imageim.png) 
 *(You can replace `imageim.png` with an actual screenshot of your game)*
 
 ## Table of Contents
